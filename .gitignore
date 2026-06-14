@@ -1,0 +1,18 @@
+# 本地文档与草稿，不提交到 Profile 仓库
+Ignore/
+
+# 操作系统
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 编辑器 / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 日志与临时文件
+*.log
+*.tmp
